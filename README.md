@@ -15,3 +15,9 @@
 > 플레이어의 색채 감각과 순발력을 동시에 테스트하며, 색상을 얼마나 정확하게 맞추었는지, 그리고 얼마나 빨리 완성했는지에 따라 점수와 최종 등급이 결정됩니다.
 
 #### **[배포 링크](https://gemini.google.com/share/d70951b6d6cb)**
+
+
+## 학습
+### JAVA GC 시뮬레이터
+> JAVA 언어의 메모리 할당과 해제를 관리하는 GC(Garbage Collector)의 동작 방식을 시각적으로 확인해 볼 수 있습니다!
+#### **[배포링크](https://gemini.google.com/share/4dac015b2c37)**
